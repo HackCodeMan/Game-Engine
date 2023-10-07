@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695571446 source:c:\users\pokra\onedrive\Рабочий стол\game engine\game engine\main.cpp
+	"Game_World.h"
+
+1695571427 c:\users\pokra\onedrive\Рабочий стол\game engine\game engine\game_world.h
+	<string>
+	"Array2d.h"
+
+1695576037 c:\users\pokra\onedrive\Рабочий стол\game engine\game engine\array2d.h
+
